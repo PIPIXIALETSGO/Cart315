@@ -7,6 +7,9 @@
 <h4>Size-Shifting Mechanics</h4>
 In one of the game's sections, Cody gains the ability to magically change his size, becoming very small or gigantic at will. This mechanic is used to solve puzzles that involve weight, size, and accessing areas that are only possible in a specific size. Meanwhile, May receives a tool that complements this ability, emphasizing teamwork in navigating through obstacles
 </p>
-<h4>Ex: Magnetic Attractions:</h4>
+<h4>Magnetic Attractions:</h4>
 Another segment introduces magnetic gloves for the characters, where one character's gloves repel and the other's attract. Players must figure out how to use these opposing forces to pull or push objects, or even each other, to overcome obstacles and progress through the level. This mechanic emphasizes the theme of attraction and repulsion, mirroring the ups and downs of Cody and May's relationship.
-
+<h3>Cons</h3>
+<p>Due to the abundance of puzzles in the game, maintaining consistent player engagement across all levels can be challenging. As a result, players may find that some levels are not as enjoyable as others</p>
+<h3>For future project</h3>
+<p>Many of the puzzle mechanics from "It Takes Two" can serve as inspiration for future projects. It's feasible to adapt a puzzle from the game and expand upon it to create something new. For example, the magnetic attraction</p>
