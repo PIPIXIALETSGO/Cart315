@@ -1,7 +1,7 @@
 <h1>Game Concept: </h1>
 <p>The game is a restaurant-based rogue-like top-down view game set in an apocalyptic scenario where the player, as the last surviving chef, must fend off hordes of mad "zombie" customers. </p>
 <h1>Mechanics and Features: </h1>
-<p>1.Class-Based Gameplay: Players choose a chef class based on the type of cuisine they specialize in, each offering unique strengths and abilities. Example classes: Burger Chef (strength-focused), Sushi Chef (agility-focused), Pizza Chef (versatile), etc. 
+<p>1.Class-Based Gameplay: Players choose a chef class based on the type of cuisine they specialize in, each offering unique strengths and abilities. Example classes: Burger Chef (strength-focused), Sushi Chef (agility-focused), Pizza Chef (versatile), etc. <br>
 2.Specialized Weapons: Weapons are derived from kitchen utensils and ingredients, each with distinct effects and playstyles. Examples: Spatula (for burger chefs), Sushi Knife (for sushi chefs), Pizza Cutter (for pizza chefs), etc. 
 3.Unique Abilities: Each class possesses unique abilities tied to their culinary expertise, allowing for strategic combat and traversal. Examples: Flaming Hot Sauce (sets enemies on fire), Barbecue Skewers (stabbing attacks), Durian (slows or repels enemies), Sticky Rice (immobilizes enemies), etc. 
 4.Environmental Hazards: Utilize elements of the restaurant environment as both obstacles and tools in combat. Examples: Gas stoves (to ignite enemies), slippery floors (to hinder enemy movement), crowded tables (for cover), etc.
