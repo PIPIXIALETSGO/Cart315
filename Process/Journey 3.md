@@ -27,7 +27,7 @@
    - Adapt strategies based on enemy strengths and patterns.
 
 **Goals and Considerations:**
-- **What is the Specialty and Uniqueness about this game:** The game's specialty lies in its restaurant-themed setting, class-based gameplay, and creative weapon and ability mechanics.
+- **What is the Specialty and Uniqueness about this game?** The game's specialty lies in its restaurant-themed setting, class-based gameplay, and creative weapon and ability mechanics.
 - **Balanced Gameplay:** Ensuring balance across classes and weapons is crucial to providing an enjoyable experience for players, encouraging experimentation with different playstyles.
 - **Mid-Fidelity Implementation:** The current prototype is mid-fidelity, focusing on implementing new themes and mechanics while refining gameplay based on player feedback.
 
