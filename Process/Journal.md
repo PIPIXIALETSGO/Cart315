@@ -1,4 +1,5 @@
-<h1>Design Journal: Game Analysis</h1>
+<h1>Journal 1</h1>
+<h2>Design Journal: Game Analysis</h2>
 <h2>It Takes Two</h2>
 <h3>Co-op Gameplay at Its Core</h3>
 <p>The game is designed exclusively for two players, either local or online, emphasizing cooperation and teamwork. Every puzzle and challenge requires collaboration between the two players, each controlling one of the two main characters, Cody and May. This design choice fosters communication and creates a shared gaming experience that is both unique and engaging.</p>
@@ -13,11 +14,20 @@ Another segment introduces magnetic gloves for the characters, where one charact
 <p>Due to the abundance of puzzles in the game, maintaining consistent player engagement across all levels can be challenging. As a result, players may find that some levels are not as enjoyable as others</p>
 <h3>For future project</h3>
 <p>Many of the puzzle mechanics from "It Takes Two" can serve as inspiration for future projects. It's feasible to adapt a puzzle from the game and expand upon it to create something new. For example, the magnetic attraction</p>
-
-
-
-
-
+<h1>Journal 2</h1>
+<h3>A rhythem based shooting game, player has to shoot the object based on the beat from the background music</h3>
+<p>Engagement: The game design  prioritize engaging the player by seamlessly integrating rhythmic elements with shooting mechanics. Keeping the player immersed in the gameplay through dynamic visuals, responsive controls, and captivating audio is essential.
+Accessibility: Accessibility is key to ensuring that players of all skill levels can enjoy the game. Designing intuitive controls, providing clear instructions, and offering adjustable difficulty levels will make the game accessible and enjoyable for a wide audience.
+Music Integration: The game's design  focus on seamless integration with the background music. This involves designing levels, enemy patterns, and shooting mechanics that synchronize harmoniously with the rhythm and tempo of the music. The music should not only enhance the gameplay experience but also serve as a guiding force for the player.
+Precedents:
+"Beat Saber" (VR Game)
+"Thumper" (Rhythm Violence Game)
+</p>
+<h3>Time-Bending Puzzle Adventure</h3> 
+<p>In this game, players control a character with the ability to manipulate time.The game is set in a visually stunning, surreal world filled with intricate puzzles and obstacles. Players must strategically use their time-bending powers to navigate through levels, solve puzzles, and overcome challenges. The core mechanic revolves around pausing, rewinding, and fast-forwarding time to alter the environment and interact with objects in creative ways. Each level presents increasingly complex puzzles that require careful planning and timing to solve. As players progress, they uncover the mysteries of the world and unravel an epic story of cosmic proportions.</p>
+<h3>Roguelike rhythm game</h3> 
+<p> A mesmerizing fusion of rhythm-based gameplay and roguelike elements, where timing actions to the music is not just a mechanic but a necessity for survival. Set in a dynamically shifting musical landscape, players must navigate through procedurally generated levels, each offering a unique soundtrack that evolves based on their choices and actions.Intense battles against enemies where each attack, dodge, and movement must be perfectly timed to the beat of the music. Enemies unleash their assaults in sync with the rhythm, forcing players to anticipate and react accordingly to avoid damage.There will be strategic decisions throughout the game that directly impact the music and gameplay experience. Choices such as engaging in combat, exploring optional areas, or interacting with environmental objects influence the trajectory of the music, introducing new melodies, rhythms, and challenges.Also the unpredictability of roguelike gameplay with procedurally generated levels, permadeath mechanics, and random encounters. Each playthrough offers a fresh and dynamic experience, challenging players to adapt to ever-changing environments and musical compositions</p>
+<h1>Journal 3</h1>
 **Game Concept:**
 - The game is a restaurant-based rogue-like top-down view game set in an apocalyptic scenario where the player, as the last surviving chef, must fend off hordes of mad "zombie" customers.
 
