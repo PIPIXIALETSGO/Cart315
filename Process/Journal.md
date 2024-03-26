@@ -65,3 +65,7 @@ Precedents:
 - Incorporate additional weapon types and classes based on player feedback.
 - Fine-tune gameplay mechanics and balance to ensure each class and weapon is viable and enjoyable to play.
 - Expand environmental interactions and hazards to enhance strategic depth and immersion.
+<h1>Journal 4</h1>
+**In-game perspective shifting:**
+   -Now the game has shifted from 2d to 3d since Azhar has joined the team, so I have more time to play around the 3d settings. Most of scripts from the orginal
+   2d game file has been successfully transfered to the 3d version. I also added jumping since it's 3d now, but not 100 percent sure whether I want to keep it or not because it also changes the play style of the game. For this phase, I'm planing to add health bar and experience bar to game. The experience bar will have a number that indicates player's level right next to it. Whenvever player levels up, the health bar refilled to full.Another changed that I made an isometric camera view.Ideally, I also want when an enmey hit player, it pushes player to the oposite direction so the player awares that he/she got hit.
