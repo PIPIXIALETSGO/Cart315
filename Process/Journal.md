@@ -14,7 +14,7 @@ Another segment introduces magnetic gloves for the characters, where one charact
 <p>Due to the abundance of puzzles in the game, maintaining consistent player engagement across all levels can be challenging. As a result, players may find that some levels are not as enjoyable as others</p>
 <h3>For future project</h3>
 <p>Many of the puzzle mechanics from "It Takes Two" can serve as inspiration for future projects. It's feasible to adapt a puzzle from the game and expand upon it to create something new. For example, the magnetic attraction</p>
-<h1>Journal 2</h1>
+<h1>Journal 2 Conceptualizing</h1>
 <h3>A rhythem based shooting game, player has to shoot the object based on the beat from the background music</h3>
 <p>Engagement: The game design  prioritize engaging the player by seamlessly integrating rhythmic elements with shooting mechanics. Keeping the player immersed in the gameplay through dynamic visuals, responsive controls, and captivating audio is essential.
 Accessibility: Accessibility is key to ensuring that players of all skill levels can enjoy the game. Designing intuitive controls, providing clear instructions, and offering adjustable difficulty levels will make the game accessible and enjoyable for a wide audience.
@@ -27,7 +27,7 @@ Precedents:
 <p>In this game, players control a character with the ability to manipulate time.The game is set in a visually stunning, surreal world filled with intricate puzzles and obstacles. Players must strategically use their time-bending powers to navigate through levels, solve puzzles, and overcome challenges. The core mechanic revolves around pausing, rewinding, and fast-forwarding time to alter the environment and interact with objects in creative ways. Each level presents increasingly complex puzzles that require careful planning and timing to solve. As players progress, they uncover the mysteries of the world and unravel an epic story of cosmic proportions.</p>
 <h3>Roguelike rhythm game</h3> 
 <p> A mesmerizing fusion of rhythm-based gameplay and roguelike elements, where timing actions to the music is not just a mechanic but a necessity for survival. Set in a dynamically shifting musical landscape, players must navigate through procedurally generated levels, each offering a unique soundtrack that evolves based on their choices and actions.Intense battles against enemies where each attack, dodge, and movement must be perfectly timed to the beat of the music. Enemies unleash their assaults in sync with the rhythm, forcing players to anticipate and react accordingly to avoid damage.There will be strategic decisions throughout the game that directly impact the music and gameplay experience. Choices such as engaging in combat, exploring optional areas, or interacting with environmental objects influence the trajectory of the music, introducing new melodies, rhythms, and challenges.Also the unpredictability of roguelike gameplay with procedurally generated levels, permadeath mechanics, and random encounters. Each playthrough offers a fresh and dynamic experience, challenging players to adapt to ever-changing environments and musical compositions</p>
-<h1>Journal 3</h1>
+<h1>Journal 3 Prototyping Stage 1</h1>
 **Game Concept:**
 - The game is a restaurant-based rogue-like top-down view game set in an apocalyptic scenario where the player, as the last surviving chef, must fend off hordes of mad "zombie" customers.
 
@@ -65,7 +65,7 @@ Precedents:
 - Incorporate additional weapon types and classes based on player feedback.
 - Fine-tune gameplay mechanics and balance to ensure each class and weapon is viable and enjoyable to play.
 - Expand environmental interactions and hazards to enhance strategic depth and immersion.
-<h1>Journal 4</h1>
+<h1>Journal 4 Prototype Stage 2</h1>
 **In-game perspective shifting:**
 -Now the game has shifted from 2d to 3d since Azhar has joined the team, so I have more time to play around the 3d settings. Most of scripts from the orginal
 2d game file has been successfully transfered to the 3d version. I also added jumping since it's 3d now, but not 100 percent sure whether I want to keep it or not because it also changes the play style of the game. For this phase, I'm planing to add health bar and experience bar to game. The experience bar will have a number that indicates player's level right next to it. Whenvever player levels up, the health bar refilled to full.Another changed that I made an isometric camera view.Ideally, I also want when an enmey hit player, it pushes player to the oposite direction so the player awares that he/she got hit.Another thing that I'm thinking is should I keep the shooting style that I have right now(shoots based on the direction that the player is facing), or change it to shoots from where player's cursor at. This will definetly change the play style a lot.
