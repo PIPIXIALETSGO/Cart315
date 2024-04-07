@@ -66,12 +66,15 @@ Precedents:
 - Fine-tune gameplay mechanics and balance to ensure each class and weapon is viable and enjoyable to play.
 - Expand environmental interactions and hazards to enhance strategic depth and immersion.
 <h1>Journal 4 Prototype Stage 2</h1>
-**In-game perspective shifting:**
--Now the game has shifted from 2d to 3d since Azhar has joined the team, so I have more time to play around the 3d settings. Most of scripts from the orginal
-2d game file has been successfully transfered to the 3d version. I also added jumping since it's 3d now, but not 100 percent sure whether I want to keep it or not because it also changes the play style of the game. For this phase, I'm planing to add health bar and experience bar to game. The experience bar will have a number that indicates player's level right next to it. Whenvever player levels up, the health bar refilled to full.Another changed that I made an isometric camera view.Ideally, I also want when an enmey hit player, it pushes player to the oposite direction so the player awares that he/she got hit.Another thing that I'm thinking is should I keep the shooting style that I have right now(shoots based on the direction that the player is facing), or change it to shoots from where player's cursor at. This will definetly change the play style a lot.
+## Planned Updates
+- **Health and Experience Bars**: Planning to add health and experience bars to the game. The experience bar will display the player's level next to it. Upon leveling up, the health bar will be refilled to full.
+- **Isometric Camera View**: Implemented an isometric camera view for a different perspective.
+- **Player Knockback on Enemy Hit**: Intending to add player knockback when hit by an enemy, pushing the player in the opposite direction for better feedback.
+- **Shooting Mechanics Consideration**: Debating whether to keep the current shooting style (based on the player's facing direction) or change it to shoot from the player's cursor position. This change would significantly impact the play style.
+
+## Conclusion
+These updates aim to leverage the transition to 3D, enhance player feedback, and refine gameplay mechanics. The addition of health and experience bars, along with player knockback and potential shooting mechanic changes, will contribute to a more immersive and engaging player experience.
 <h1>Journal 4 Prototype Stage 3</h1>
-## Introduction
-The following document outlines the updates made to the game based on user feedback and design decisions.
 
 ## New Weapon Types
 - **Sniper**: High damage, long-range weapon with slow fire rate.
