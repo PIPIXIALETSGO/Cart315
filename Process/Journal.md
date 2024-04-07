@@ -81,7 +81,7 @@ The game has shifted from 2D to 3D since Azhar joined the team, allowing more ti
 ## Conclusion
 These updates aim to leverage the transition to 3D, enhance player feedback, and refine gameplay mechanics. The addition of health and experience bars, along with player knockback and potential shooting mechanic changes, will contribute to a more immersive and engaging player experience.
 
-<h1>Journal 3 Prototyping Stage 3</h1>
+<h1>Journal 5 Prototyping Stage 3</h1>
 
 ## New Weapon Types
 - **Sniper**: High damage, long-range weapon with slow fire rate.
@@ -98,6 +98,11 @@ These updates aim to leverage the transition to 3D, enhance player feedback, and
 - Considering changing to shooting mechanics where the player shoots from where the cursor is located.
   - This change would significantly alter the gameplay style and require adjustments to player controls and aiming mechanics.
 
+**Pickup Animations 
+- Adding animations for pickups such as experience gems and healing potions to enhance their visual feedback.
+
 ## Conclusion
 These updates aim to enhance gameplay variety, improve player feedback, and refine shooting mechanics. The introduction of new weapon types adds diversity to the player's arsenal, while player knockback on enemy hit and potential changes to shooting mechanics contribute to overall gameplay refinement.
+
+<h1>Journal 5 Prototyping Stage 3</h1>
 
