@@ -66,6 +66,7 @@ Precedents:
 - Fine-tune gameplay mechanics and balance to ensure each class and weapon is viable and enjoyable to play.
 - Expand environmental interactions and hazards to enhance strategic depth and immersion.
 <h1>Journal 4 Prototype Stage 2</h1>
+
 # In-game Perspective Shifting
 
 ## Overview
@@ -81,6 +82,7 @@ The game has shifted from 2D to 3D since Azhar joined the team, allowing more ti
 These updates aim to leverage the transition to 3D, enhance player feedback, and refine gameplay mechanics. The addition of health and experience bars, along with player knockback and potential shooting mechanic changes, will contribute to a more immersive and engaging player experience.
 
 <h1>Journal 3 Prototyping Stage 3</h1>
+
 ## New Weapon Types
 - **Sniper**: High damage, long-range weapon with slow fire rate.
 - **Shotgun**: Short-range weapon with wide spread and high damage at close range.
