@@ -69,3 +69,25 @@ Precedents:
 **In-game perspective shifting:**
 -Now the game has shifted from 2d to 3d since Azhar has joined the team, so I have more time to play around the 3d settings. Most of scripts from the orginal
 2d game file has been successfully transfered to the 3d version. I also added jumping since it's 3d now, but not 100 percent sure whether I want to keep it or not because it also changes the play style of the game. For this phase, I'm planing to add health bar and experience bar to game. The experience bar will have a number that indicates player's level right next to it. Whenvever player levels up, the health bar refilled to full.Another changed that I made an isometric camera view.Ideally, I also want when an enmey hit player, it pushes player to the oposite direction so the player awares that he/she got hit.Another thing that I'm thinking is should I keep the shooting style that I have right now(shoots based on the direction that the player is facing), or change it to shoots from where player's cursor at. This will definetly change the play style a lot.
+<h1>Journal 4 Prototype Stage 3</h1>
+## Introduction
+The following document outlines the updates made to the game based on user feedback and design decisions.
+
+## New Weapon Types
+- **Sniper**: High damage, long-range weapon with slow fire rate.
+- **Shotgun**: Short-range weapon with wide spread and high damage at close range.
+- **Pistol**: Balanced weapon with moderate damage and fire rate.
+- **SMG (Submachine Gun)**: Rapid-fire weapon with low damage per shot but high fire rate.
+
+## Player Knockback on Enemy Hit
+- Implemented player knockback mechanic when hit by an enemy.
+- The knockback force is applied to push the player away from the enemy, creating feedback for the player.
+
+## Shooting Mechanics
+- Initially, shooting mechanics were based on the direction the player is facing.
+- Considering changing to shooting mechanics where the player shoots from where the cursor is located.
+  - This change would significantly alter the gameplay style and require adjustments to player controls and aiming mechanics.
+
+## Conclusion
+These updates aim to enhance gameplay variety, improve player feedback, and refine shooting mechanics. The introduction of new weapon types adds diversity to the player's arsenal, while player knockback on enemy hit and potential changes to shooting mechanics contribute to overall gameplay refinement.
+
