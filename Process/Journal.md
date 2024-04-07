@@ -103,7 +103,7 @@ These updates aim to leverage the transition to 3D, enhance player feedback, and
 ## Conclusion
 These updates aim to enhance gameplay variety, improve player feedback, and refine shooting mechanics. The introduction of new weapon types adds diversity to the player's arsenal, while player knockback on enemy hit and potential changes to shooting mechanics contribute to overall gameplay refinement.
 
-<h1>Journal 5 Prototyping Stage 3</h1>
+<h1>Journal 5 Prototyping Stage 4</h1>
 
 ### New Map and Enemy Prefab
 - Added a new map set in an abandoned city environment.
