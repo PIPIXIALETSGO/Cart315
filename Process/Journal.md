@@ -98,11 +98,31 @@ These updates aim to leverage the transition to 3D, enhance player feedback, and
 - Considering changing to shooting mechanics where the player shoots from where the cursor is located.
   - This change would significantly alter the gameplay style and require adjustments to player controls and aiming mechanics.
 
-**Pickup Animations 
-- Adding animations for pickups such as experience gems and healing potions to enhance their visual feedback.
+
 
 ## Conclusion
 These updates aim to enhance gameplay variety, improve player feedback, and refine shooting mechanics. The introduction of new weapon types adds diversity to the player's arsenal, while player knockback on enemy hit and potential changes to shooting mechanics contribute to overall gameplay refinement.
 
 <h1>Journal 5 Prototyping Stage 3</h1>
 
+### New Map and Enemy Prefab
+- Added a new map set in an abandoned city environment.
+- All enemies now use a ghost prefab for consistency.
+
+### Building Shader
+- Implemented shaders for buildings.
+- When a building covers the camera, it becomes transparent, allowing the player to see their character.
+
+### Game Mode
+- Set the game mode to survival.
+- The player must try to stay alive as long as possible.
+- Upon leveling up, the player can choose one upgrade out of three options.
+
+## Next Week's Objectives
+
+### Upgrade Options
+- Add more upgrade options for existing passive abilities and weapons.
+- Provide players with more opportunities to strategize their playstyle.
+
+### Sound Implementation (if time permits)
+- Add sound effects to enhance the game's audio experience.
