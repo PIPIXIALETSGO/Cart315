@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c0d090c55abbaa4e9f595ab3000271e, type: 3}
+  m_Name: Boots Passive Item
+  m_EditorClassIdentifier: 
+  multipler: 10
+  level: 1
+  nextLevelPrefab: {fileID: 554796623490744176, guid: dea3fc5d99c947d4aa5c1fdd4666f165,
+    type: 3}
+  name: 'Boots '
+  description: Increase movement speed by 10%
+  icon: {fileID: 21300000, guid: 3b8e28897d90b50418895f851cf1a41b, type: 3}
