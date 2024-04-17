@@ -126,3 +126,38 @@ These updates aim to enhance gameplay variety, improve player feedback, and refi
 
 ### Sound Implementation (if time permits)
 - Add sound effects to enhance the game's audio experience.
+
+
+<h1>Journal 6 Final Design Journal</h1>
+## Description
+This is the final version of the game with the following mechanics:
+- **Game Mechanic**: All enemies spawn randomly around the player. When the player moves, the spawn points move with them.
+- **Weapons**:
+  - SMG: High rate of fire
+  - Pistol: Average rate of fire and damage
+  - Sniper: High damage and penetration
+  - Shotgun: Spreading bullets
+- **Menu Page**:
+  - Players can choose their starting weapon from two options.
+- **Passive Items**:
+  - Enchanter: Increases overall damage
+  - Boots: Increases movement speed
+- **Player Stats**:
+  - Health
+  - Health Regeneration
+  - Pickup Radius
+  - Might
+  - Move Speed
+  - Projectile Speed
+- **Scenes**:
+  - Character Selecting Scene
+  - In-Game Scene
+  - Pausing Screen
+  - Game Over Screen
+- **Controls**:
+  - Movement: WASD keys
+  - Jump: Spacebar
+  - Glider Mechanic: Press spacebar twice and hold it to glide. The purpose is to allow players to jump onto buildings and kite enemies.
+
+## Gameplay
+The gameplay revolves around strategic movement, utilizing weapons and passive items effectively to survive against hordes of enemies. Players must navigate the environment, utilize cover, and manage resources wisely to succeed.
