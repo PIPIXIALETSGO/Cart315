@@ -129,7 +129,7 @@ These updates aim to enhance gameplay variety, improve player feedback, and refi
 
 
 <h1>Journal 6 Final Design Journal</h1>
-# Game Title
+# Ghostly Shooter
 
 ## Description
 This is the final version of the game with the following mechanics:
@@ -164,7 +164,4 @@ This is the final version of the game with the following mechanics:
 ## Gameplay
 The gameplay revolves around strategic movement, utilizing weapons and passive items effectively to survive against hordes of enemies. Players must navigate the environment, utilize cover, and manage resources wisely to succeed.
 
-## Credits
-- Game Design & Development: [Your Name/Team Name]
-- Artwork & Graphics: [Artist Name/Team Name]
-- Music & Sound Effects: [Composer Name/Team Name]
+
